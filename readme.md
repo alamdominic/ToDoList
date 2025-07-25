@@ -9,7 +9,6 @@ Una sencilla aplicación de lista de tareas hecha con **HTML**, **CSS** y **Java
 - Agregar tareas dinámicamente
 - Eliminar tareas completadas
 - Interfaz limpia y adaptable
-- Sin frameworks ni librerías externas
 
 ---
 
