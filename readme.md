@@ -9,7 +9,7 @@ Una sencilla aplicación de lista de tareas hecha con **HTML**, **CSS** y **Java
 - Agregar tareas dinámicamente
 - Eliminar tareas completadas
 - Interfaz limpia y adaptable
-
+- Falta implementar editar y mejorar la interfaz con csss
 ---
 
 ## 📁 Estructura del Proyecto
@@ -42,12 +42,12 @@ to-do-list/
 
 ## ✍️ Autor
 
-Desarrollado por [Tu Nombre Aquí].
+Desarrollado por Alam Dominic
 
 ---
 
 ## 📸 Captura de pantalla (opcional)
 
-_Agrega una imagen de tu proyecto funcionando si deseas._
+![To do list](<to do list-1.png>)
 
 ---
